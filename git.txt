@@ -5,3 +5,9 @@ git commit -m "my message"
 git remote add origin https://github.com/halimatul54/test.git
 git push  origin master
 
+
+
+----------After change--------------
+git add .
+git commit -m "my message"
+git push  origin master
